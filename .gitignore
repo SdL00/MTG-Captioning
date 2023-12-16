@@ -1,0 +1,13 @@
+data/
+dataset_preparation/
+__pycache__/
+results_training_1e-4_3_working/
+results_training_1e-5/
+results_training_5e-5_last/
+results_training_fine_tune_old/
+results_training_fine_tune_old_2/
+results_training_fine_tune_on_1e-5/
+results_training_fine_tune_on_5e-5_last/   
+live_1.txt
+live_2.txt
+live.txt
