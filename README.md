@@ -5,5 +5,5 @@
 
 * To test the performance of the model, use the following command:
 ```bash
-python3 inference.py
+python3 inference.py --image [URL]
 ```
