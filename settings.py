@@ -11,19 +11,19 @@ NUM_HEADS = 8 # Number of attention heads inside transformer
 EPOCHS = 100
 
 # Tokenizer trained model saved path
-tokenizer_path = "results_training_working/tokenizer"
+tokenizer_path = "results_training/tokenizer"
 
-get_model_config_path = "results_training_working/config_train.json"
+get_model_config_path = "results_training/config_train.json"
 # Weights trained model saved path
-get_model_weights_path = "results_training_working/model_weights.h5"
+get_model_weights_path = "results_training/model_weights.h5"
 
 # Tokenizer fine-tuned model saved path
-tokenizer_path_fine_tune = "results_training_fine_tune_old_2/fine_tuned_tokenizertokenizer"
+tokenizer_path_fine_tune = "results_training_fine_tuned/fine_tuned_tokenizertokenizer"
 # Config fine-tuned model saved path
-get_model_config_path_fine_tune = "results_training_fine_tune_old_2/config_ft.json"
+get_model_config_path_fine_tune = "results_training_fine_tuned/config_ft.json"
 # Weights fine-tuned model saved path
-get_model_weights_path_fine_tune = "results_training_fine_tune_old_2/fine_tuned_model_weights.h5"
+get_model_weights_path_fine_tune = "results_training_fine_tuned/fine_tuned_model_weights.h5"
 
 # Directories where the results will be saved
 SAVE_DIR = "results_training/"
-SAVE_DIR_FINE_TUNE = "results_training_fine_tune/"
+SAVE_DIR_FINE_TUNE = "results_training_fine_tuned/"
