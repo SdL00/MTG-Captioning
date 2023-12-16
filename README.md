@@ -1,5 +1,11 @@
 # Deep Learning Exam Project
 
 ## Documentation
-
-In locale il dataset finale da utilizzare è il "modified_italian_dataset.csv" (captions in italiano e art-crop inglesi poichè corrotte quelle italiane)
+* Create the folder where the dataset will be placed.
+```bash
+mkdir data
+```
+* To test the performance of the model, use the following command:
+```bash
+python3 inference.py
+```
