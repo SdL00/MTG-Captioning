@@ -1,4 +1,2 @@
 data/
 __pycache__/
-results_training/tokenizer/
-results_training/model_weights.h5
