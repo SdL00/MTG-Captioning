@@ -3,6 +3,6 @@
 ## Documentation
 
 ```bash
-$ mkdir data
+mkdir data
 ```
 
